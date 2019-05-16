@@ -50,7 +50,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Back/app-mongo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="-1122">
               <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
             </state>
           </provider>
@@ -104,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="19" />
     <option name="y" value="18" />
     <option name="width" value="1346" />
@@ -171,21 +171,20 @@
       <workItem from="1557866475471" duration="8159000" />
       <workItem from="1557951136112" duration="686000" />
       <workItem from="1558006484625" duration="2507000" />
-      <workItem from="1558041280010" duration="8034000" />
+      <workItem from="1558041280010" duration="8328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106634000" />
+    <option name="totallyTimeSpent" value="106928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4974093" visible="true" weight="0.25567323" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4974093" visible="true" weight="0.25567323" />
       <window_info id="Structure" order="2" sideWeight="0.50259066" side_tool="true" weight="0.25416037" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.23240589" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.23240589" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3289689" />
@@ -431,7 +430,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Back/app-mongo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="-1122">
           <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
         </state>
       </provider>
